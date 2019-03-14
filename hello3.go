@@ -2,13 +2,11 @@ package main
 
 import "fmt"
 
-func hello_name(name string){
+func helloName(name string) {
 	fmt.Println("Hello ", name)
 }
 
-func main(){
-	hello_name("nev")
-	hello_name("chin")
+func main() {
+	helloName("nev")
+	helloName("chin")
 }
-
-
