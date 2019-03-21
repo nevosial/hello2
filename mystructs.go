@@ -32,3 +32,5 @@ func main() {
 
 	fmt.Println(demon)
 }
+
+//can use an online json to struct convertor.
